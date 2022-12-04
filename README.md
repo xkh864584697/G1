@@ -1,3 +1,3 @@
 # githubTest
-easyX界面
+easyX图形界面
 
